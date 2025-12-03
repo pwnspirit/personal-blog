@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Pwnspirit&#x27;s Blog</title>
+      <link>https://blog.pwnspirit.xyz</link>
+      <description>Linux • Programming • Cybersecurity</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://blog.pwnspirit.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Wed, 03 Dec 2025 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>My journry to pwn.college [WIP]</title>
+          <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://blog.pwnspirit.xyz/intro-cybersecurity/</link>
+          <guid>https://blog.pwnspirit.xyz/intro-cybersecurity/</guid>
+          <description xml:base="https://blog.pwnspirit.xyz/intro-cybersecurity/">&lt;h1 id=&quot;intro-to-cybersecurity&quot;&gt;Intro to Cybersecurity&lt;&#x2F;h1&gt;
+&lt;p&gt;This blog gonna be a long one as I&#x27;m preparing for Bug Bounty and Cybersecurity in general in which I&#x27;m gonna learn by solving challenges over from &lt;a href=&quot;https:&#x2F;&#x2F;pwn.college&quot;&gt;pwn.college&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Setting up this blog site [reference]</title>
+          <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://blog.pwnspirit.xyz/source/</link>
+          <guid>https://blog.pwnspirit.xyz/source/</guid>
+          <description xml:base="https://blog.pwnspirit.xyz/source/">&lt;h2 id=&quot;reference-for-the-blog&quot;&gt;Reference for the blog.&lt;&#x2F;h2&gt;
+&lt;p&gt;Checkout: https:&#x2F;&#x2F;blog.orhun.dev&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>

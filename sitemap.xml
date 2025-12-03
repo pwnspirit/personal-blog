@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://blog.pwnspirit.xyz/</loc>
+    </url>
+    <url>
+        <loc>https://blog.pwnspirit.xyz/categories/</loc>
+    </url>
+    <url>
+        <loc>https://blog.pwnspirit.xyz/categories/bug-hunting/</loc>
+    </url>
+    <url>
+        <loc>https://blog.pwnspirit.xyz/categories/cybersecurity/</loc>
+    </url>
+    <url>
+        <loc>https://blog.pwnspirit.xyz/categories/pwn-college/</loc>
+    </url>
+    <url>
+        <loc>https://blog.pwnspirit.xyz/categories/thoughts/</loc>
+    </url>
+    <url>
+        <loc>https://blog.pwnspirit.xyz/intro-cybersecurity/</loc>
+        <lastmod>2025-12-03</lastmod>
+    </url>
+    <url>
+        <loc>https://blog.pwnspirit.xyz/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://blog.pwnspirit.xyz/source/</loc>
+        <lastmod>2025-11-29</lastmod>
+    </url>
+</urlset>
